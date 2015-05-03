@@ -1,6 +1,6 @@
 === WP Search User By Website Url ===
 Contributors: smitkalwal
-Tags: search, search user, website, wp user, wp search website, website url
+Tags: search, search user, website, wp user, wp search website, website url, admin, plugin, users
 Requires at least: 3.6
 Tested up to: 4.1.1
 License: GPLv2 or later
@@ -28,8 +28,6 @@ This plugin adds a additional column in admin user's listing with user's website
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-
-== Screenshots ==
 
 == Changelog ==
 = 1.0.0 =
